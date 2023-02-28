@@ -3,7 +3,7 @@ import OrderItem from '@components/OrderItem';
 import AppContext from '@context/AppContext';
 
 //?Styles
-import '@styles/MyOrder.scss';
+import '@styles/MyOrder.module.scss';
 import styles from '@styles/MyOrder.module.scss';
 import arrow from '@icons/flechita.svg';
 
